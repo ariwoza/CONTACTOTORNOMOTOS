@@ -23,7 +23,7 @@ header{
 }
 @font-face {
     font-family:'theboldfont';
-    
+    src: url("/fonts/theboldfont.ttf");
 }
 
 .cajamenu{
@@ -331,7 +331,7 @@ iframe{
 }
 .cajatextoyredes{
     width:100%;
-    background-image: url("/imagenes/motobg.jpg");
+    background-image: url("/motobg.jpg");
     background:#222222;
     background-size: cover;
     display: flex;
