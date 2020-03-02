@@ -368,6 +368,7 @@ iframe{
 .socialmediacont{
     width:20%;
     object-fit: contain;
+    cursor: pointer;
     
 }
 .socialmediacont img{
