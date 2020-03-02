@@ -9,7 +9,7 @@
     outline: none;
 }
 body{
-    font-family: 'Open Sans', sans-serif;
+    /*font-family: 'Open Sans', sans-serif;*/
 }
 header{
     transition: all .5s ease;
@@ -22,7 +22,7 @@ header{
     
 }
 @font-face {
-    font-family:'theboldfont';
+    font-family:"theboldfont";
     src: url("/fonts/theboldfont.ttf");
 }
 
@@ -298,7 +298,7 @@ nav .ulmenu .limenu ul a:hover{
 .titulocontacto h1{
     text-align:center;
     color:#fff;
-    font-family: 'theboldfont', sans-serif;
+    font-family: "theboldfont", sans-serif;
     
 }
 
@@ -320,7 +320,7 @@ nav .ulmenu .limenu ul a:hover{
     color:#fff;
     text-align:center;
     margin:10px;
-    font-family: 'theboldfont', sans-serif;
+    font-family: "theboldfont", sans-serif;
     
 }
 iframe{
@@ -352,7 +352,7 @@ iframe{
     color:#fff;
     font-size: 30px;
     text-align: center;
-    font-family: 'theboldfont', sans-serif;
+    font-family: "theboldfont", sans-serif;
 }
 .textoredes span{
     color:#3fea50;
@@ -486,7 +486,7 @@ form.form_contact h2{
 	color:#3FEA50;
     margin-bottom: 70px;
     text-align: center;
-    font-family: 'theboldfont', sans-serif;
+    font-family: "theboldfont", sans-serif;
 }
 
 form.form_contact .user_info{
@@ -533,7 +533,7 @@ form.form_contact input[type="submit"]{
 	border-radius: 250px;
     align-self:center;
     color: #fff;
-	font-family: 'theboldfont', sans-serif;
+	font-family: "theboldfont", sans-serif;
 	font-size: 16px;
 	font-weight: 600;
 	cursor: pointer;
