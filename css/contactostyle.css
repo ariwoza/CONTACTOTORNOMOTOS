@@ -405,7 +405,6 @@ iframe{
         display:flex;
         justify-content: center;
         
-        
     }
     .cajatex{
         width:90%;
@@ -434,7 +433,7 @@ iframe{
     .socialmediacont{
         width:20%;
         object-fit: contain;
-        background:purple;
+        
     }
     .
     
