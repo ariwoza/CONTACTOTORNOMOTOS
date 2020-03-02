@@ -365,6 +365,14 @@ iframe{
     justify-content: space-evenly;
 
 }
+.socialmediacont{
+    width:20%;
+    object-fit: contain;
+    
+}
+.socialmediacont img{
+    width:100%;
+}
 
 
 @media (max-width:1024px){
@@ -423,6 +431,12 @@ iframe{
         justify-content: space-evenly;
     
     }
+    .socialmediacont{
+        width:20%;
+        object-fit: contain;
+        background:purple;
+    }
+    .
     
 }
 
