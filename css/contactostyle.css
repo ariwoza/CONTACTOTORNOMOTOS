@@ -23,7 +23,7 @@ header{
 }
 @font-face {
     font-family:"theboldfont";
-    src: url("/fonts/theboldfont.ttf");
+    src: url('/fonts/theboldfont.ttf') format('ttf');
 }
 
 .cajamenu{
@@ -338,6 +338,7 @@ iframe{
     flex-wrap: wrap;
     padding-top: 50px;
     padding-bottom: 50px;
+    background:orange;
 }
 .cajatex{
     width:50%;
@@ -363,6 +364,7 @@ iframe{
     display:flex;
     flex-wrap:wrap;
     justify-content: space-evenly;
+    background:red;
 
 }
 .socialmediacont{
