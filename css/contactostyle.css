@@ -276,6 +276,7 @@ nav .ulmenu .limenu ul a:hover{
     display:flex;
     justify-content: center;
     background-image: url("/imagenes/motobg.jpg");
+    background:#222222;
     background-size: cover;
     margin-top:70px;
     
@@ -331,6 +332,7 @@ iframe{
 .cajatextoyredes{
     width:100%;
     background-image: url("/imagenes/motobg.jpg");
+    background:#222222;
     background-size: cover;
     display: flex;
     flex-wrap: wrap;
